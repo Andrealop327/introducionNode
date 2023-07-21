@@ -1,0 +1,14 @@
+{
+  "name": "introducionnode",
+  "version": "1.0.0",
+  "description": "Introducción a Node.js",
+  "main": "introducionNode.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luz Andrea lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
